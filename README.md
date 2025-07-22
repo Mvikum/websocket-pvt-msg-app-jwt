@@ -1,3 +1,5 @@
+Used **vue app** with **typescript** and **vuetify** using **options API** for the fronend.
+
 Frontend app :
 1. npm install
 2. npm run dev
